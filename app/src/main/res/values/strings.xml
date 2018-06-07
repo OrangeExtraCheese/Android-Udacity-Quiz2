@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="open_question1">In which year United Kingdom joined European Communities?</string>
+    <string name="open_question1_hint">Put your answer here.</string>
+    <string name="open_question1_answer">1972</string>
+
+    <string name="single_choice_question1">Who was the last ruler of United Kingdom?</string>
+    <string name="single_choice_question1_answer1">Edward VIII</string>
+    <string name="single_choice_question1_answer2">George VI</string>
+    <string name="single_choice_question1_answer3">George V</string>
+    <string name="single_choice_question1_correct_answer">@string/single_choice_question1_answer2</string>
+
+    <string name="multiple_answer_question1">In which country pound sterling is an official currency?</string>
+    <string name="multiple_choice_question1_answer1">South Georgia</string>
+    <string name="multiple_choice_question1_answer2">Jersey</string>
+    <string name="multiple_choice_question1_answer3">Bermuda</string>
+    <string name="multiple_choice_question1_answer4">New Zealand</string>
+    <string name="multiple_choice_question1_answer5">United Kingdom</string>
+    <string-array name="multiple_choice_question1_correct_answers">
+        <item>@string/multiple_choice_question1_answer1</item>
+        <item>@string/multiple_choice_question1_answer2</item>
+        <item>@string/multiple_choice_question1_answer5</item>
+    </string-array>
+
+    <string name="single_choice_question2">Which river flows through the London?</string>
+    <string name="single_choice_question2_answer1">Narmada</string>
+    <string name="single_choice_question2_answer2">Seine</string>
+    <string name="single_choice_question2_answer3">Tiber</string>
+    <string name="single_choice_question2_answer4">Thames</string>
+    <string name="single_choice_question2_correct_answer">@string/single_choice_question2_answer4</string>
+
+    <string name="check_button">CHECK!</string>
+
+</resources>
